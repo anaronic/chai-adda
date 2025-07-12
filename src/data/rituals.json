@@ -1,0 +1,58 @@
+[
+  {
+    "id": "calm-chai",
+    "title": "Calm Chai Ritual",
+    "duration": "3 minutes",
+    "audio": "/audio/calm_chai.mp3",
+    "image": "/images/ritual_calm.jpg",
+    "description": "A mindful tea-brewing meditation to help you relax before sipping.",
+    "steps": [
+      "Find a quiet space",
+      "Boil water mindfully",
+      "Steep tea for 3 minutes",
+      "Take deep breaths",
+      "Sip slowly and reflect"
+    ]
+  },
+  {
+    "id": "sunrise-brew",
+    "title": "Sunrise Brew Stretch",
+    "duration": "5 minutes",
+    "video": "/videos/sunrise_stretch.mp4",
+    "description": "Start your day with a light stretch and fresh brew.",
+    "steps": [
+      "Gentle neck stretches",
+      "Shoulder rolls",
+      "Deep breathing",
+      "Tea preparation",
+      "Mindful sipping"
+    ]
+  },
+  {
+    "id": "evening-wind-down",
+    "title": "Evening Wind Down",
+    "duration": "7 minutes",
+    "audio": "/audio/evening_chai.mp3",
+    "description": "Unwind with a soothing evening tea ritual.",
+    "steps": [
+      "Dim the lights",
+      "Choose a calming tea",
+      "Practice gratitude",
+      "Slow brewing process",
+      "Reflect on your day"
+    ]
+  },
+  {
+    "id": "productivity-boost",
+    "title": "Productivity Boost",
+    "duration": "4 minutes",
+    "description": "Energize your work session with this invigorating ritual.",
+    "steps": [
+      "Choose an energizing tea",
+      "Set your intentions",
+      "Quick breathing exercise",
+      "Tea preparation",
+      "Focus on your goals"
+    ]
+  }
+] 

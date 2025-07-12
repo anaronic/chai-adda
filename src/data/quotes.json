@@ -1,0 +1,41 @@
+[
+  {
+    "id": "tagore-1",
+    "language": "bengali",
+    "text": "যদি তোর ডাক শুনে কেউ না আসে, তবে একলা চলো রে।",
+    "translation": "If no one responds to your call, walk alone.",
+    "author": "Rabindranath Tagore"
+  },
+  {
+    "id": "english-1",
+    "language": "english",
+    "text": "Let your soul steep like tea – slowly, richly, fully.",
+    "author": "Anonymous"
+  },
+  {
+    "id": "tagore-2",
+    "language": "bengali",
+    "text": "চা হল জীবনের একটি ক্ষুদ্র আনন্দ।",
+    "translation": "Tea is a small joy of life.",
+    "author": "Rabindranath Tagore"
+  },
+  {
+    "id": "english-2",
+    "language": "english",
+    "text": "In the midst of movement and chaos, keep stillness inside of you.",
+    "author": "Deepak Chopra"
+  },
+  {
+    "id": "bengali-1",
+    "language": "bengali",
+    "text": "প্রতিটি চা-পানের মুহূর্তে নতুন করে শুরু হয় জীবন।",
+    "translation": "With every sip of tea, life begins anew.",
+    "author": "Anonymous"
+  },
+  {
+    "id": "english-3",
+    "language": "english",
+    "text": "Tea is the magic key to the vault where my brain is kept.",
+    "author": "Frances Hardinge"
+  }
+] 

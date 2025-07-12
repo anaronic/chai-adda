@@ -1,0 +1,47 @@
+[
+  {
+    "id": "u001",
+    "name": "Arpita Sen",
+    "language": "bengali",
+    "badges": ["Calm Seeker", "Trivia King", "Mountain Soul"],
+    "favorites": ["darjeeling-first-flush", "adda-by-the-ghat"],
+    "completedRituals": ["calm-chai", "sunrise-brew"],
+    "quizResults": {
+      "which-tea-are-you": "darjeeling",
+      "tea-trivia": 4
+    },
+    "joinDate": "2024-01-15",
+    "totalOrders": 3,
+    "favoriteCategory": "Darjeeling"
+  },
+  {
+    "id": "u002",
+    "name": "Rahul Das",
+    "language": "english",
+    "badges": ["Spice Master", "Adda Boss"],
+    "favorites": ["masala-chai-classic", "college-adda"],
+    "completedRituals": ["productivity-boost"],
+    "quizResults": {
+      "which-tea-are-you": "masala",
+      "tea-trivia": 5
+    },
+    "joinDate": "2024-02-20",
+    "totalOrders": 5,
+    "favoriteCategory": "Chai Blends"
+  },
+  {
+    "id": "u003",
+    "name": "Maya Banerjee",
+    "language": "bengali",
+    "badges": ["Wellness Warrior", "Tea Taster"],
+    "favorites": ["green-tea-wellness", "rainy-chai"],
+    "completedRituals": ["calm-chai", "evening-wind-down"],
+    "quizResults": {
+      "which-tea-are-you": "green",
+      "tea-trivia": 3
+    },
+    "joinDate": "2024-03-10",
+    "totalOrders": 2,
+    "favoriteCategory": "Wellness"
+  }
+] 

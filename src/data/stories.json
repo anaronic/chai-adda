@@ -1,0 +1,56 @@
+[
+  {
+    "id": "adda-by-the-ghat",
+    "title": "Adda by the Ghat",
+    "language": "bengali",
+    "author": "Rituparna Ghosh",
+    "content": "পাঁচটা বাজে। গঙ্গার ঘাটে সবে আলো নেমেছে। দোকানদাররা চা বেচছে, আর আমরা বসে আছি পুরানো বেঞ্চে। চায়ের কাপে বাষ্প উঠছে, আর কথায় কথায় জীবন কেটে যাচ্ছে।",
+    "image": "/images/story_ghat.jpg",
+    "category": "nostalgia"
+  },
+  {
+    "id": "sunday-sip",
+    "title": "The Sunday Sip",
+    "language": "english",
+    "author": "Ananya Bose",
+    "content": "He stared out the window, Darjeeling steaming in hand. The morning mist clung to the mountains like a soft blanket. This was his ritual - every Sunday, same time, same place, same tea. The world could wait.",
+    "image": "/images/story_sunday.jpg",
+    "category": "reflection"
+  },
+  {
+    "id": "masala-memories",
+    "title": "Masala Memories",
+    "language": "english",
+    "author": "Priya Das",
+    "content": "Grandma's kitchen always smelled of cardamom and cinnamon. She'd brew masala chai for hours, the spices dancing in the air. Now, every time I make it, I feel her presence, her love, her warmth.",
+    "image": "/images/story_kitchen.jpg",
+    "category": "family"
+  },
+  {
+    "id": "bengali-morning",
+    "title": "বাংলার সকাল",
+    "language": "bengali",
+    "author": "Soumitra Chatterjee",
+    "content": "সকালের রোদে চা পাতা শুকোচ্ছে। কৃষকরা মাঠে কাজ করছে। আর আমি বসে আছি আমার ছোট্ট বারান্দায়, এক কাপ চা নিয়ে। এই সকালের শান্তি, এই সুন্দর মুহূর্ত।",
+    "image": "/images/story_morning.jpg",
+    "category": "nature"
+  },
+  {
+    "id": "college-adda",
+    "title": "College Adda",
+    "language": "english",
+    "author": "Rahul Sen",
+    "content": "The college canteen was our second home. Endless cups of tea, endless conversations about life, love, and the future. Those were the days when time stood still, and friendship was everything.",
+    "image": "/images/story_college.jpg",
+    "category": "friendship"
+  },
+  {
+    "id": "rainy-chai",
+    "title": "বৃষ্টির চা",
+    "language": "bengali",
+    "author": "Maya Banerjee",
+    "content": "বৃষ্টি পড়ছে জানালার বাইরে। আর আমি বসে আছি এক কাপ গরম চা নিয়ে। এই মুহূর্তে সবকিছু থেমে গেছে। শুধু বৃষ্টির শব্দ আর চায়ের স্বাদ।",
+    "image": "/images/story_rain.jpg",
+    "category": "peace"
+  }
+] 

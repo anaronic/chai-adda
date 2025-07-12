@@ -1,0 +1,66 @@
+[
+  {
+    "id": "poila-boishakh",
+    "date": "2025-04-15",
+    "event": "Poila Boishakh",
+    "suggestedTea": "Assam Orthodox",
+    "description": "Start the Bengali New Year with a bold brew and sweet beginnings.",
+    "category": "festival"
+  },
+  {
+    "id": "durga-puja",
+    "date": "2025-10-02",
+    "event": "Durga Puja",
+    "suggestedTea": "Masala Chai",
+    "description": "Celebrate with spice, joy, and lots of Adda!",
+    "category": "festival"
+  },
+  {
+    "id": "rabindra-jayanti",
+    "date": "2025-05-07",
+    "event": "Rabindra Jayanti",
+    "suggestedTea": "Darjeeling First Flush",
+    "description": "Honor Tagore's legacy with the finest Darjeeling tea.",
+    "category": "cultural"
+  },
+  {
+    "id": "saraswati-puja",
+    "date": "2025-02-02",
+    "event": "Saraswati Puja",
+    "suggestedTea": "Green Tea Wellness",
+    "description": "Seek wisdom and knowledge with a refreshing green tea.",
+    "category": "festival"
+  },
+  {
+    "id": "holi",
+    "date": "2025-03-14",
+    "event": "Holi",
+    "suggestedTea": "Cardamom Chai",
+    "description": "Celebrate colors with aromatic cardamom chai.",
+    "category": "festival"
+  },
+  {
+    "id": "diwali",
+    "date": "2025-11-01",
+    "event": "Diwali",
+    "suggestedTea": "Masala Chai",
+    "description": "Light up your life with spicy masala chai.",
+    "category": "festival"
+  },
+  {
+    "id": "monsoon-season",
+    "date": "2025-06-15",
+    "event": "Monsoon Season",
+    "suggestedTea": "Mountain Oolong",
+    "description": "Embrace the rain with a complex oolong tea.",
+    "category": "seasonal"
+  },
+  {
+    "id": "winter-morning",
+    "date": "2025-12-01",
+    "event": "Winter Mornings",
+    "suggestedTea": "Classic Masala Chai",
+    "description": "Warm up your winter mornings with spicy chai.",
+    "category": "seasonal"
+  }
+] 

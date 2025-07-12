@@ -1,0 +1,124 @@
+[
+  {
+    "id": "which-tea-are-you",
+    "title": "Which Tea Are You?",
+    "description": "Discover your tea personality!",
+    "questions": [
+      {
+        "q": "Your ideal weekend activity?",
+        "options": [
+          { "text": "Reading by a window", "value": "darjeeling" },
+          { "text": "Dancing with friends", "value": "masala" },
+          { "text": "Spa day & chill", "value": "green" },
+          { "text": "Adventure sports", "value": "assam" }
+        ]
+      },
+      {
+        "q": "Pick a color",
+        "options": [
+          { "text": "Forest Green", "value": "green" },
+          { "text": "Amber Gold", "value": "masala" },
+          { "text": "Ivory White", "value": "darjeeling" },
+          { "text": "Deep Brown", "value": "assam" }
+        ]
+      },
+      {
+        "q": "How do you handle stress?",
+        "options": [
+          { "text": "Meditation & reflection", "value": "green" },
+          { "text": "Talk to friends", "value": "masala" },
+          { "text": "Take a peaceful walk", "value": "darjeeling" },
+          { "text": "Face it head-on", "value": "assam" }
+        ]
+      },
+      {
+        "q": "Your perfect weather?",
+        "options": [
+          { "text": "Misty mountains", "value": "darjeeling" },
+          { "text": "Warm sunshine", "value": "masala" },
+          { "text": "Fresh spring breeze", "value": "green" },
+          { "text": "Stormy & dramatic", "value": "assam" }
+        ]
+      }
+    ],
+    "results": {
+      "darjeeling": {
+        "title": "You're a Darjeeling First Flush!",
+        "description": "You're calm, wise, and observant. Like the early morning mist in the hills, you bring clarity and peace to those around you.",
+        "badge": "Mountain Soul"
+      },
+      "masala": {
+        "title": "You're a Classic Masala Chai!",
+        "description": "You're bold, social, and full of spice. A classic crowd favorite who brings warmth and energy to every gathering!",
+        "badge": "Spice Master"
+      },
+      "green": {
+        "title": "You're a Green Tea Wellness!",
+        "description": "You're all about balance, health, and self-love. You inspire others to take care of themselves and find inner peace.",
+        "badge": "Wellness Warrior"
+      },
+      "assam": {
+        "title": "You're an Assam Orthodox!",
+        "description": "You're strong, bold, and reliable. Like the robust Assam tea, you're the foundation that others can always count on.",
+        "badge": "Bold Spirit"
+      }
+    }
+  },
+  {
+    "id": "tea-trivia",
+    "title": "Tea Trivia Challenge",
+    "description": "Test your tea knowledge!",
+    "questions": [
+      {
+        "q": "Which region is famous for Darjeeling tea?",
+        "options": [
+          { "text": "West Bengal", "value": "correct" },
+          { "text": "Kerala", "value": "incorrect" },
+          { "text": "Tamil Nadu", "value": "incorrect" },
+          { "text": "Karnataka", "value": "incorrect" }
+        ],
+        "correct": "West Bengal"
+      },
+      {
+        "q": "What is the traditional brewing time for black tea?",
+        "options": [
+          { "text": "1-2 minutes", "value": "incorrect" },
+          { "text": "3-5 minutes", "value": "correct" },
+          { "text": "7-10 minutes", "value": "incorrect" },
+          { "text": "15 minutes", "value": "incorrect" }
+        ],
+        "correct": "3-5 minutes"
+      },
+      {
+        "q": "Which spice is commonly used in Masala Chai?",
+        "options": [
+          { "text": "Turmeric", "value": "incorrect" },
+          { "text": "Cardamom", "value": "correct" },
+          { "text": "Cumin", "value": "incorrect" },
+          { "text": "Coriander", "value": "incorrect" }
+        ],
+        "correct": "Cardamom"
+      },
+      {
+        "q": "What is the main difference between green and black tea?",
+        "options": [
+          { "text": "Color", "value": "incorrect" },
+          { "text": "Oxidation process", "value": "correct" },
+          { "text": "Origin", "value": "incorrect" },
+          { "text": "Price", "value": "incorrect" }
+        ],
+        "correct": "Oxidation process"
+      },
+      {
+        "q": "Which tea is known as the 'Champagne of Teas'?",
+        "options": [
+          { "text": "Assam", "value": "incorrect" },
+          { "text": "Darjeeling", "value": "correct" },
+          { "text": "Nilgiri", "value": "incorrect" },
+          { "text": "Kangra", "value": "incorrect" }
+        ],
+        "correct": "Darjeeling"
+      }
+    ]
+  }
+] 
